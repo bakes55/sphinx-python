@@ -1,7 +1,7 @@
 Summary
 =======
 
-Summary of project.
+This is a simple Demo of Sphinx.
 
 Section 1
 ---------

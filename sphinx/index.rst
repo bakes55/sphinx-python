@@ -4,7 +4,7 @@
    contain the root `toctree` directive.
 
  Sphinx documentation example
-========================================================
+=============================
 
 This is a description  of this website. This is just an example website.
 
